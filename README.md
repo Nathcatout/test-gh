@@ -4,7 +4,7 @@
 Desarrolladora de Software | Estudiante de Ingeniería de Sistemas
 </p>
 <p align="center">
-  <img src="nath.png" width="200">
+  <img src="nath.jpeg" width="200">
 </p>
 
 
