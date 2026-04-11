@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Nathalia Mejía</h1>
+<h1 align="center"> Nathalia Mejía</h1>
 
 <p align="center">
 Desarrolladora de Software | Estudiante de Ingeniería de Sistemas
@@ -10,7 +10,7 @@ Desarrolladora de Software | Estudiante de Ingeniería de Sistemas
 
 ---
 
-## 🌟 Sobre mí
+##  Sobre mí
 
 Hola, soy **Nathalia Mejía**, estudiante de **Ingeniería de Sistemas** con interés en el desarrollo de software, bases de datos y tecnologías web.
 
@@ -18,16 +18,16 @@ Me gusta aprender constantemente, participar en proyectos tecnológicos y desarr
 
 ---
 
-## 🚀 En lo que estoy trabajando
+## En lo que estoy trabajando
 
-- 📚 Aprendiendo más sobre desarrollo web
-- 💻 Creando proyectos para fortalecer mi portafolio
-- 🔍 Explorando tecnologías de backend y bases de datos
-- 🌐 Mejorando mis habilidades en Git y GitHub
+-  Aprendiendo más sobre desarrollo web
+-  Creando proyectos para fortalecer mi portafolio
+-  Explorando tecnologías de backend y bases de datos
+-  Mejorando mis habilidades en Git y GitHub
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 ### Lenguajes
 
@@ -52,23 +52,23 @@ Me gusta aprender constantemente, participar en proyectos tecnológicos y desarr
 
 ---
 
-## 🎓 Educación
+##  Educación
 
-📍 **Universidad de Nariño**  
+ **Universidad de Nariño**  
 Ingeniería de Sistemas
 
 ---
 
-## 🌎 Idiomas
+##  Idiomas
 
 - 🇪🇸 Español — Nativo
 - 🇬🇧 Inglés — Basico 
 
 ---
 
-## 📌 Proyectos Destacados
+##  Proyectos Destacados
 
-### 💻 Sistema de Gestión
+###  Sistema de Gestión
 Sistema web para gestión de información utilizando tecnologías web y base de datos.
 
 **Tecnologías:**  
@@ -76,7 +76,7 @@ HTML, CSS, JavaScript, MySQL
 
 ---
 
-### 🌐 Plataforma Web
+###  Plataforma Web
 Aplicación web para gestionar información y mejorar procesos administrativos.
 
 **Tecnologías:**  
@@ -84,13 +84,13 @@ JavaScript, Git, GitHub
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
-📧 Email: nathaliamejia155@gmail.com 
+ Email: nathaliamejia155@gmail.com 
 
-🐙 GitHub  
+ GitHub  
 https://github.com/Nathcatout
 
 ---
 
-⭐ Siempre dispuesto/a a aprender nuevas tecnologías y colaborar en proyectos interesantes.
+Siempre dispuesto/a a aprender nuevas tecnologías y colaborar en proyectos interesantes.
